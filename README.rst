@@ -1,5 +1,27 @@
+Baxter SDK ROS Noetic fork
+===========================
+
+This is a ROS Noetic/Python3 compatible fork of the Baxter SDK. ROS Noetic compatible Baxter repositories can be found here:
+
+
++------------------+-----------------------------------------------------+
+| baxter_interface | https://github.com/maymohan/baxter_interface        |
++------------------+-----------------------------------------------------+
+| baxter_tools     | https://github.com/maymohan/baxter_tools            |
++------------------+-----------------------------------------------------+
+| baxter_common    | https://github.com/maymohan/baxter_common           |
++------------------+-----------------------------------------------------+
+| baxter_examples  | https://github.com/maymohan/baxter_examples         |
++------------------+-----------------------------------------------------+
+| baxter_pykdl     | https://github.com/maymohan/baxter_pykdl            |
++------------------+-----------------------------------------------------+
+| baxter_simulator | https://github.com/maymohan/baxter_simulator        |
++------------------+-----------------------------------------------------+
+
+Details of the original repositories are below.
+
 Baxter SDK
-==============
+----------
 
 The Baxter SDK provides a platform for development of custom applications for the Baxter Research Robot
 
@@ -45,6 +67,10 @@ Other Baxter Repositories
 | baxter_common    | https://github.com/RethinkRobotics/baxter_common    |
 +------------------+-----------------------------------------------------+
 | baxter_examples  | https://github.com/RethinkRobotics/baxter_examples  |
++------------------+-----------------------------------------------------+
+| baxter_pykdl     | https://github.com/RethinkRobotics/baxter_pykdl     |
++------------------+-----------------------------------------------------+
+| baxter_simulator | https://github.com/RethinkRobotics/baxter_simulator |
 +------------------+-----------------------------------------------------+
 
 Latest Release Information

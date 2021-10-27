@@ -4,17 +4,17 @@
     version: master
 - git:
     local-name: baxter_interface
-    uri: https://github.com/CentraleNantesRobotics/baxter_interface.git
+    uri: https://github.com/maymohan/baxter_interface.git
     version: master
 - git:
     local-name: baxter_tools
-    uri: https://github.com/CentraleNantesRobotics/baxter_tools.git
+    uri: https://github.com/maymohan/baxter_tools.git
     version: master
 - git:
     local-name: baxter_common
-    uri: https://github.com/RethinkRobotics/baxter_common.git
+    uri: https://github.com/maymohan/baxter_common.git
     version: master
 - git:
     local-name: baxter_examples
-    uri: https://github.com/RethinkRobotics/baxter_examples.git
+    uri: https://github.com/maymohan/baxter_examples.git
     version: master
