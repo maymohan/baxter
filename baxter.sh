@@ -26,8 +26,8 @@ baxter_hostname="baxter_hostname.local"
 your_ip="192.168.XXX.XXX"
 #your_hostname="my_computer.local"
 
-# Specify ROS distribution (e.g. indigo, hydro, etc.)
-ros_version="indigo"
+# Specify ROS distribution (e.g. noetic, melodic, etc.)
+ros_version="noetic"
 #-----------------------------------------------------------------------------#
 
 tf=$(mktemp)

@@ -1,7 +1,7 @@
 Baxter SDK ROS Noetic fork
 ===========================
 
-This is a ROS Noetic/Python3 compatible fork of the Baxter SDK. ROS Noetic compatible Baxter repositories can be found here:
+This is a ROS Noetic/Python3 compatible fork of the Baxter SDK. ROS Noetic compatible Baxter repositories that the rosinstall file includes can be found here:
 
 
 +------------------+-----------------------------------------------------+
@@ -12,6 +12,10 @@ This is a ROS Noetic/Python3 compatible fork of the Baxter SDK. ROS Noetic compa
 | baxter_common    | https://github.com/maymohan/baxter_common           |
 +------------------+-----------------------------------------------------+
 | baxter_examples  | https://github.com/maymohan/baxter_examples         |
++------------------+-----------------------------------------------------+
+
+Other Baxter Repositories:
+
 +------------------+-----------------------------------------------------+
 | baxter_pykdl     | https://github.com/maymohan/baxter_pykdl            |
 +------------------+-----------------------------------------------------+
@@ -73,7 +77,4 @@ Other Baxter Repositories
 | baxter_simulator | https://github.com/RethinkRobotics/baxter_simulator |
 +------------------+-----------------------------------------------------+
 
-Latest Release Information
---------------------------
-
-http://sdk.rethinkrobotics.com/wiki/Release-Changes
+Latest Release Information: http://sdk.rethinkrobotics.com/wiki/Release-Changes
