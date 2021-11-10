@@ -16,7 +16,7 @@ ROS Noetic compatible Baxter repositories that the rosinstall file includes can 
 | baxter_examples  | https://github.com/maymohan/baxter_examples         |
 +------------------+-----------------------------------------------------+
 
-Other Baxter Repositories:
+Other Baxter Repositories (must be installed separately):
 
 +------------------+-----------------------------------------------------+
 | baxter_pykdl     | https://github.com/maymohan/baxter_pykdl            |
