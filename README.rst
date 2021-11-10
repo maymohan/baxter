@@ -1,7 +1,7 @@
 Baxter SDK ROS Noetic fork
 ===========================
 
-This is a ROS Noetic/Python3 compatible fork of the Baxter SDK. Please follow the installation instructions described in the (wiki)[https://github.com/maymohan/baxter/wiki/Installation-Instructions]
+This is a ROS Noetic/Python3 compatible fork of the Baxter SDK. Please follow the installation instructions described in the `wiki of this repository <https://github.com/maymohan/baxter/wiki/Installation-Instructions>`__.
 
 ROS Noetic compatible Baxter repositories that the rosinstall file includes can be found here:
 
