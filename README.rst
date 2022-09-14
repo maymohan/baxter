@@ -26,8 +26,7 @@ Other Baxter Repositories (must be installed separately):
 
 Test Installation:
 ------------------
-|Test your installation by following the instructions in the link provided below
-|https://sdk.rethinkrobotics.com/wiki/Hello_Baxter
+Test your installation by following the instructions in the link provided below: https://sdk.rethinkrobotics.com/wiki/Hello_Baxter
 
 Baxter Repository Overview
 --------------------------
